@@ -1,8 +1,8 @@
 # Linux
 **This a linux study notes**
 ## 目录
--[linux系统相关](#linux系统使用相关)       
--[常用命令](#常用命令)
+-[linux系统相关](#linux系统使用相关)        
+-[常用命令](#常用命令)	  
 -[软件使用](#软件使用)
 
 
